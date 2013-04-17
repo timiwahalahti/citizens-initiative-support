@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Timi Wahalahti <timi.wahalahti@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Allekirjoita aloite"
+msgstr ""
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Aloite on lähetetty eduskuntaan"
+msgstr ""
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Aloitteen numeroa ei ole määritelty"
+msgstr ""
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Displays amount of support statements in defined Finnish citizen initiative"
+msgstr "Näyttää määritellyn kansalaisaloitteen kannatusilmoitukset"
+
+#. Text in echo
+#: kansalaisaloite.php:173
+msgid "Finnish"
+msgstr "Suomi"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Kansalaisaloite"
+msgstr ""
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Keräysaika on umpeutunut"
+msgstr ""
+
+#. Text in echo
+#: kansalaisaloite.php:172
+msgid "Language"
+msgstr "Kieli"
+
+#. Text in echo
+#: kansalaisaloite.php:168
+msgid "Law initiative number"
+msgstr "Lakialoitteen numero"
+
+#. Text in echo
+#: kansalaisaloite.php:174
+msgid "Swedish"
+msgstr "Ruotsi"
+
+#. Text in echo
+#: kansalaisaloite.php:164
+msgid "Title"
+msgstr "Otsikko"
+
+#. Text in echo
+#: kansalaisaloite.php:172
+msgid "Used when getting initiative title and link to kansalaisaloite.fi"
+msgstr "Käytetään näyttäessä aloitteen otsikkoa ja tehdessä linkkiä kansalaisaloite.fi:hin"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Aloitteen on kerättävä 50 000 kannatusilmoitusta %s mennessä jotta se pääsee eduskunnan käsiteltäväksi"
+msgstr ""
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Kansalaisaloite on kerännyt %s kannatusilmoitusta"
+msgstr ""
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Kansalaisaloite on tarkastettu ja kannatusilmoitusten keräys alkaa %s"
+msgstr ""
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Kansalaisaloite.fi palvelun rajapinnassa on häiriö tai aloitetta numero %s ei ole"
+msgstr ""
+

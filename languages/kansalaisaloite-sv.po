@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Timi Wahalahti <timi.wahalahti@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Allekirjoita aloite"
+msgstr "Skriv under initiativet"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Aloite on lähetetty eduskuntaan"
+msgstr "Initiativet är skickat till riksdagen"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Aloitteen numeroa ei ole määritelty"
+msgstr "Initiativets nummer är inte definerad"
+
+#. Text in function
+#. Text in echo
+#: kansalaisaloite.php:1
+#: kansalaisaloite.php:161
+msgid "Finnish"
+msgstr "Finska"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Kansalaisaloite"
+msgstr "Medborgarinitiativ"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Keräysaika on umpeutunut"
+msgstr "Insamlingstiden har gått ut"
+
+#. Text in echo
+#: kansalaisaloite.php:160
+msgid "Language"
+msgstr "Språk"
+
+#. Text in echo
+#: kansalaisaloite.php:156
+msgid "Law initiative number"
+msgstr "Medborgarinitiativets nummer"
+
+#. Text in echo
+#: kansalaisaloite.php:162
+msgid "Swedish"
+msgstr "Svenska"
+
+#. Text in echo
+#: kansalaisaloite.php:152
+msgid "Title"
+msgstr "Titel"
+
+#. Text in echo
+#: kansalaisaloite.php:160
+msgid "Used when getting initiative title and link to kansalaisaloite.fi"
+msgstr "Används när initiativets rubrik och link till kansalaisaloite.fi visas"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Aloitteen on kerättävä 50 000 kannatusilmoitusta %s mennessä jotta se pääsee eduskunnan käsiteltäväksi"
+msgstr "Initiativet måste samla in 50 000 stödförklaringar innan %s för att överlåtas till riksdagens behandling"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Kansalaisaloite on kerännyt %s kannatusilmoitusta"
+msgstr "Medborgarinitiativet har samlat in %s stödförklaringar"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Kansalaisaloite on tarkastettu ja kannatusilmoitusten keräys alkaa %s"
+msgstr "medborgarinitiativet är granskad och samlingen av stödförklaringar börjar"
+
+#. Text in function
+#: kansalaisaloite.php:1
+msgid "Kansalaisaloite.fi palvelun rajapinnassa on häiriö tai aloitetta numero %s ei ole"
+msgstr "Det har uppstått en störning i tjänstens kansalaisaloite.fi gränsnitt eller så existerar inget initiativ med numret %s"
+
