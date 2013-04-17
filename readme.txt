@@ -40,13 +40,13 @@ In widget settings there is input for title, if it is empty widget title will be
 
 = Using The WordPress Dashboard =
 1. Navigate to the 'Add New' Plugin Dashboard
-2. Select `citizens-initiative-support.zip` from your computer
+2. Select `citizen-initiative-support.zip` from your computer
 3. Upload
 4. Activate the plugin on the WordPress Plugin Dashboard
 
 = Using FTP =
-1. Extract `citizens-initiative-support.zip` to your computer
-2. Upload the citizens-initiative-support directory to your wp-content/plugins directory
+1. Extract `citizen-initiative-support.zip` to your computer
+2. Upload the citizen-initiative-support directory to your wp-content/plugins directory
 3. Activate the plugin on the WordPress Plugins dashboard
 
 == Screenshots ==
